@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="Banner.png" alt="Logo ReUse"/>
+</p>
+
+
 ### Olá, me chamo Vicente Collin 🤙
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vicente-matheus-collin-pedroso-893ab4349/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](vicollin3@gmail.com)
