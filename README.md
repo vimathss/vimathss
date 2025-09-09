@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Banner.png" alt="Banner"/>
+  <img src="Banner - Vicente.png" alt="Banner"/>
 </p>
 
 
