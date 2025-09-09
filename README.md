@@ -2,7 +2,7 @@
   <img src="Banner - Vicente 2.png" alt="Banner"/>
 </p>
 
-<br><br><br>
+<br>
 <h1 align="center">Vicente Matheus Collin Pedroso</h1>
 
 ## 🧑‍💻 Sobre mim
