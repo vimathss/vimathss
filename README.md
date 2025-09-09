@@ -57,10 +57,10 @@ Acredito que aprender e inovar também deve ser um processo **leve e divertido**
 ## 📫 Contato
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/vicentepedroso">
+  <a href="https://www.linkedin.com/in/vimathss">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:vicentepedroso@gmail.com">
+  <a href="mailto:vicollin3@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
