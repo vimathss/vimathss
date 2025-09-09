@@ -2,10 +2,8 @@
   <img src="Banner - Vicente 2.png" alt="Banner"/>
 </p>
 
-
+<br><br><br><br><br>
 <h1 align="center">Vicente Matheus Collin Pedroso</h1>
-
-
 
 ## 🧑‍💻 Sobre mim
 
@@ -27,7 +25,6 @@ Acredito que aprender e inovar também deve ser um processo **leve e divertido**
 
 🎖️ Conquistas com o OTTO:  
 - Medalha de **OURO** na **EXPOTEC 2025 – Leme/SP** 🏅  
-- **Prêmio Escola Amiga** na feira de ciências  
 - Participação em diversas feiras, como a **FEBIC** em Joinville  
 
 ---
