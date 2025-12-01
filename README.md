@@ -27,7 +27,7 @@ Acredito que aprender e inovar também deve ser um processo **leve e divertido**
 - Melhor Projeto oriundo da Região **Sudeste** do Brasil na **FEBIC 2025 – Joinville/SC** 🏅  
 - Medalha de **OURO** na **EXPOTEC 2025 – Leme/SP** 🏅
 - 2º lugar **Melhor Projeto** do Curso Técnico em Desenvolvimento de Sistemas na **PROJETEC 2025 - Hortolândia/SP** 🥈 
-- Participação em diversas feiras e desafios, como o Solve From Tomorrow Brasil e o Desafio Liga Jovem
+- Participação em diversas feiras e desafios, como o Solve For Tomorrow Brasil e o Desafio Liga Jovem
 
 ---
 
