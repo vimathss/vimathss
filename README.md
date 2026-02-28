@@ -7,7 +7,8 @@
 
 ## 🧑‍💻 Sobre mim
 
-📍 18 anos, cursando o **3° ano de Desenvolvimento de Sistemas** na **ETEC de Hortolândia**.  
+📍 Técnico em Desenvolvimento de Sistemas.
+📍 Cursando Tecnológo em Análise e Desenvolvimento de Sistemas na Fatec Campinas.
 💡 Apaixonado por tecnologia e por transformar ideias em soluções.  
 Gosto de **trabalhar em equipe**, explorar novas tecnologias e encarar desafios criativos.  
 Acredito que aprender e inovar também deve ser um processo **leve e divertido**.  
