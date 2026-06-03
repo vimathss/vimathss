@@ -1,18 +1,15 @@
 <p align="center">
-  <img src="Banner.png" alt="Banner"/>
+  <img src="Banner - Vicente 2.png" alt="Banner"/>
 </p>
 
 <br>
+<h1 align="center">Vicente Matheus Collin Pedroso</h1>
 
 ## 🧑‍💻 Sobre mim
 
-📍 Técnico em Desenvolvimento de Sistemas.
-📍 Cursando Tecnológo em Análise e Desenvolvimento de Sistemas na Fatec Campinas.
-💡 Apaixonado por tecnologia e por transformar ideias em soluções.  
-Gosto de **trabalhar em equipe**, explorar novas tecnologias e encarar desafios criativos.  
-Acredito que aprender e inovar também deve ser um processo **leve e divertido**.  
+Sou Desenvolvedor de Software com experiência prática em desenvolvimento Full Stack, atuando principalmente com aplicações web, APIs e soluções baseadas em Inteligência Artificial.
 
----
+
 
 ## 🏆 Conquistas e Experiências
 
@@ -25,36 +22,22 @@ Acredito que aprender e inovar também deve ser um processo **leve e divertido**
 
 🎖️ Conquistas com o OTTO:  
 - Melhor Projeto oriundo da Região **Sudeste** do Brasil na **FEBIC 2025 – Joinville/SC** 🏅  
-- Medalha de **OURO** na **EXPOTEC 2025 – Leme/SP** 🏅
-- 2º lugar **Melhor Projeto** do Curso Técnico em Desenvolvimento de Sistemas na **PROJETEC 2025 - Hortolândia/SP** 🥈 
-- Participação em diversas feiras e desafios, como o Solve For Tomorrow Brasil e o Desafio Liga Jovem
+- Participação e premiação em diversas feiras e desafios, como o Solve For Tomorrow Brasil e o Desafio Liga Jovem
 
----
 
 ## 🚀 Tecnologias
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LangChain-5C2D91?style=for-the-badge&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+ <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Javascript-yellow?style=for-the-badge&logo=javascript&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+    <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Next-white?style=for-the-badge&logo=next.js&logoColor=black"/>
+    <img src="https://img.shields.io/badge/tailwind.css-blue?style=for-the-badge&logo=css&logoColor=white"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
 
----
-
-## 🛠️ Ferramentas e Softwares
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white"/>
-</p>
-
----
 
 ## 📫 Contato
 
